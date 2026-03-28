@@ -1,0 +1,17 @@
+
+button{
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.add{
+     background: green;
+}
+.minus{
+     background: red;
+}
+.reset{
+     background: gray;
+}
